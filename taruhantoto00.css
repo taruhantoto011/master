@@ -1,0 +1,134 @@
+.header-logo2 {
+width: 180px !important;
+height: 50px !important;
+margin-left: 20px !important;
+margin-top: 10px !important;
+
+}
+
+.button-orange {
+background: rgb(0 109 144) !important;
+background: -moz-linear-gradient(top, rgb(0 0 0)%, rgb(113 191 200) 50%, rgb(0 0 0)0%) !important;
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgb(0 144 79)), color-stop(50%, rgba(200,175,113,1)), color-stop(100%, rgba(144,91,0,1))) !important;
+background: -webkit-linear-gradient(top, rgb(0 140 144) 0%, rgb(113 184 200) 50%, rgb(0 115 144) 100%) !important;
+background: -o-linear-gradient(top, rgb(0 144 121) 0%, rgba(200,175,113,1) 50%, rgb(0 144 132) 100%) !important;
+background: -ms-linear-gradient(top, rgb(107 144 0) 0%, rgba(200,175,113,1) 50%, rgb(0 144 109) 100%) !important;
+background: linear-gradient(to bottom, rgb(0 144 47) 0%, rgb(113 179 200)%, rgb(0 21 144) 100%) !important;
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#905b00', endColorstr='#905b00', GradientType=0 ) !important;
+}
+
+.page-header {
+height: 80px !important;
+
+}
+
+.page-content {
+background-color: black !important;
+
+}
+
+.content {
+
+margin-top: 10px;
+
+}
+
+.buttonlc2 {
+-webkit-animation: change-color 0.5s ease 0s infinite normal !important;
+animation: change-color 0.5s ease 0s infinite normal !important;
+box-shadow: inset 0 -2px 0 rgba(100,71,0,1);
+}
+
+@-webkit-keyframes change-color {
+ 0%{
+	color:black;
+ }
+50% { color:white;
+}
+ 100%{
+	color:black;
+ }
+}
+
+@keyframes change-color {
+ 0%{
+	color:white;
+ }
+ 50% { color:white;
+}
+ 100%{
+	color:black;
+ }
+} 
+
+.button-blue {
+background: rgb(123 237 206) !important;
+background: -moz-linear-gradient(top, rgb(123 228 237) 0%, rgb(23 87 109) 100%) !important;
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(237,218,123,1)), color-stop(100%, rgba(109,82,23,1))) !important;
+background: -webkit-linear-gradient(top, rgba(237,218,123,1) 0%, rgba(109,82,23,1) 100%) !important;
+background: -o-linear-gradient(top, rgba(237,218,123,1) 0%, rgba(109,82,23,1) 100%) !important;
+background: -ms-linear-gradient(top, rgba(237,218,123,1) 0%, rgba(109,82,23,1) 100%) !important;
+background: linear-gradient(to bottom, rgb(123 237 202) 0%, rgba(109,82,23,1) 100%) !important;
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#edda7b', endColorstr='#6d5217', GradientType=0 ) !important;
+}
+
+.buttons {
+box-shadow: inset 0 -4px 0 rgb(255,255,255,1) !important;
+border-radius: 15px !important;
+}
+
+.button-green {
+background: rgba(237,218,123,1) !important;
+background: -moz-linear-gradient(top, rgba(237,218,123,1) 0%, rgb(23 40 109) 100%) !important;
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgb(123 237 159)), color-stop(100%, rgb(23 102 109))) !important;
+background: -webkit-linear-gradient(top, rgba(237,218,123,1) 0%, rgb(23 109 105) 100%) !important;
+background: -o-linear-gradient(top, rgba(237,218,123,1) 0%, rgb(40 23 109) 100%) !important;
+background: -ms-linear-gradient(top, rgba(237,218,123,1) 0%, rgba(109,82,23,1) 100%) !important;
+background: linear-gradient(to bottom, rgb(123 237 165) 0%, rgba(109,82,23,1) 100%) !important;
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#edda7b', endColorstr='#6d5217', GradientType=0 ) !important;
+}
+
+.buttong {
+box-shadow: inset 0 -4px 0 rgb(255,255,255,1) !important;
+border-radius: 15px !important;
+}
+
+
+.panel-blue {
+background: rgba(2,5,9,1) !important;
+background: -moz-radial-gradient(center, ellipse cover, rgba(237,218,123,1) 0%, rgba(109,82,23,1) 50%, rgba(237,218,123,1) 100%) !important;
+background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(237,218,123,1)), color-stop(50%, rgba(109,82,23,1)), color-stop(100%, rgba(237,218,123,1))) !important;
+background: -webkit-radial-gradient(center, ellipse cover, rgba(237,218,123,1) 0%, rgba(109,82,23,1) 50%, rgba(237,218,123,1) 100%) !important;
+background: -o-radial-gradient(center, ellipse cover, rgba(237,218,123,1) 0%, rgba(109,82,23,1) 50%, rgba(237,218,123,1) 100%) !important;
+background: -ms-radial-gradient(center, ellipse cover, rgba(237,218,123,1) 0%, rgba(109,82,23,1) 50%, rgba(237,218,123,1) 100%) !important;
+background: radial-gradient(ellipse at center, rgb(151 130 26) 0%, rgb(23 109 62) 50%, rgba(237,218,123,1) 100%) !important;
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#edda7b', endColorstr='#6d5217', GradientType=1 ) !important;
+border: 1px white solid;
+}
+
+
+.container
+{
+background: black !important;
+}
+
+.wrapper2
+{
+background: url(https://1.bp.blogspot.com/-aPk7XX579QU/YVaxwy-__pI/AAAAAAAAAno/RVZP8gEmZsM0PDwuVTAiuir5Ex_h041qgCLcBGAsYHQ/s16000/kauceng.jpg) center no-repeat !important;
+background-size: 100% !important;
+}
+
+.inner-wrap {
+background: rgba(0,0,0,0) !important;
+}
+
+
+.panel {
+background-color: black !important;
+
+}
+
+.note {
+color: white !important;
+text-shadow: 0px 0px 6px black;
+}
