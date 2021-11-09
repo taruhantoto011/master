@@ -1,0 +1,22 @@
+
+.button-blue {
+
+background: #C10B0B;
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0BC166', endColorstr='#0BC166', GradientType=0 );
+}
+
+.buttons {
+box-shadow: inset 0px 0px 20px 4px #27ae60;
+}
+
+.button-green {
+background: #C10B0B;
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1E1313', endColorstr='#1E1313', GradientType=0 );
+}
+
+.buttong {
+box-shadow: inset 0px 0px 20px 4px #1E1313;
+
+.buttong {
+box-shadow: inset 0px 0px 20px 4px #1E1313;
+
